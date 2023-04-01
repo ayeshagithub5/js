@@ -34,4 +34,4 @@ if(!(a===d) && b===c) {
     console.log('condition 1 is true')
 } else if (a===b) {
     console.log('condition 2 is true')
-} else {console.log('nothing is true')}
+} else {console.log('nothing is true')};
